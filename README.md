@@ -1,0 +1,2 @@
+# Algorithm-Simulation-of-the-Orbits-of-Objects-Differential-Equation-Second-Order-Curves-
+In this paper we consider the algorithm for calculation of motion of bodies, using the coherent graph. The graph is built through solving a differential equation of second order curves, using theorem of the center of mass and transition from a consecutive number of relative coordinates to general system of coordinates.
